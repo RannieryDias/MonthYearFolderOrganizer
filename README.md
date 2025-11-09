@@ -62,7 +62,7 @@ Each file is placed into the corresponding year/month folder based on its creati
 
 ```
 Original Folder: C:\Users\John\Downloads
-Organized Output: C:\Users\John\Downloads_Organized
+Organized Output: C:\Users\John\Imagens Organizadas
 ```
 
 ---
@@ -129,7 +129,7 @@ Cada arquivo é copiado para a pasta correspondente ao ano e mês de criação, 
 
 ```
 Pasta Original: C:\Users\Ranniery\Downloads
-Pasta Organizada: C:\Users\Ranniery\Downloads_Organized
+Pasta Organizada: C:\Users\Ranniery\Imagens Organizadas
 ```
 
 ---
