@@ -14,16 +14,14 @@ YYYY/MM
 
 For example:
 ```
-Organized
- ┣ 2024
- ┃ ┣ 01
- ┃ ┃ ┣ photo1.jpg
- ┃ ┃ ┗ document1.pdf
- ┃ ┗ 02
- ┃    ┗ report.docx
- ┗ 2025
-    ┗ 03
-       ┗ image.png
+Imagens Organizadas
+ ┣ 2024-01
+ ┃ ┣ photo1.jpg
+ ┃ ┗ document1.pdf
+ ┣ 2024-02
+ ┃ ┗ report.docx
+ ┗ 2025-03
+   ┗ image.png
 ```
 
 Each file is placed into the corresponding year/month folder based on its creation date, helping you easily keep track of when your files were created.
@@ -81,16 +79,14 @@ YYYY/MM
 
 Por exemplo:
 ```
-Organizado
- ┣ 2024
- ┃ ┣ 01
- ┃ ┃ ┣ foto1.jpg
- ┃ ┃ ┗ documento1.pdf
- ┃ ┗ 02
- ┃    ┗ relatorio.docx
- ┗ 2025
-    ┗ 03
-       ┗ imagem.png
+Imagens Organizadas
+ ┣ 2024-01
+ ┃ ┣ photo1.jpg
+ ┃ ┗ document1.pdf
+ ┣ 2024-02
+ ┃ ┗ report.docx
+ ┗ 2025-03
+   ┗ image.png
 ```
 
 Cada arquivo é copiado para a pasta correspondente ao ano e mês de criação, facilitando a organização cronológica dos seus arquivos.
