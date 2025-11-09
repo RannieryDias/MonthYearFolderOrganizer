@@ -131,10 +131,3 @@ Cada arquivo é copiado para a pasta correspondente ao ano e mês de criação, 
 Pasta Original: C:\Users\Ranniery\Downloads
 Pasta Organizada: C:\Users\Ranniery\Imagens Organizadas
 ```
-
----
-
-### Autor
-
-Desenvolvido por Ranniery Dias  
-2025
