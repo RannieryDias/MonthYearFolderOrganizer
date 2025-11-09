@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MothYearFolderOrganizerFront", "MothYearFolderOrganizerFront]\MothYearFolderOrganizerFront.csproj", "{E18F4C91-C8F9-4828-9F09-0B0B662B2CFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MothYearFolderOrganizerFront", "MothYearFolderOrganizerFront\MothYearFolderOrganizerFront.csproj", "{E18F4C91-C8F9-4828-9F09-0B0B662B2CFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
