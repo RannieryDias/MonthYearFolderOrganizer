@@ -6,7 +6,7 @@
 
 Month Year Folder Organizer is a simple desktop tool that automatically organizes all files from a selected folder and its subfolders into a new structured directory.
 
-The software scans all files and moves them into subfolders organized by their creation date, following the format:
+The software scans all files and copy them into subfolders organized by their creation date, following the format:
 
 ```
 YYYY/MM
@@ -34,7 +34,7 @@ Each file is placed into the corresponding year/month folder based on its creati
 
 1. Select the folder you want to organize.  
 2. The app scans all files and subfolders.  
-3. Files are copied (or moved, depending on configuration) into a new directory structure grouped by creation year and month.
+3. Files are copied into a new directory structure grouped by creation year and month.
 
 ---
 
@@ -93,7 +93,7 @@ Organizado
        ┗ imagem.png
 ```
 
-Cada arquivo é movido para a pasta correspondente ao ano e mês de criação, facilitando a organização cronológica dos seus arquivos.
+Cada arquivo é copiado para a pasta correspondente ao ano e mês de criação, facilitando a organização cronológica dos seus arquivos.
 
 ---
 
@@ -101,7 +101,7 @@ Cada arquivo é movido para a pasta correspondente ao ano e mês de criação, f
 
 1. Selecione a pasta que deseja organizar.  
 2. O aplicativo analisa todos os arquivos e subpastas.  
-3. Os arquivos são copiados (ou movidos) para uma nova estrutura organizada por ano/mês de criação.
+3. Os arquivos são copiados para uma nova estrutura organizada por ano/mês de criação.
 
 ---
 
